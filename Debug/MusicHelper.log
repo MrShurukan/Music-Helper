@@ -1,7 +1,0 @@
-﻿  main.cpp
-D:\Documents\CPP\MusicHelper\main.cpp(156,40): warning C4244: return: преобразование "double" в "int", возможна потеря данных
-D:\Documents\CPP\MusicHelper\main.cpp(192,27): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Documents\CPP\MusicHelper\main.cpp(225,35): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Documents\CPP\MusicHelper\main.cpp(239,35): warning C4018: <: несоответствие типов со знаком и без знака
-D:\Documents\CPP\MusicHelper\main.cpp(152): warning C4715: osc: значение возвращается не при всех путях выполнения
-  MusicHelper.vcxproj -> D:\Documents\CPP\MusicHelper\Debug\MusicHelper.exe
